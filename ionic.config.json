@@ -1,0 +1,7 @@
+{
+  "name": "DemoIngenieria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
